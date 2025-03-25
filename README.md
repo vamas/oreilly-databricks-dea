@@ -12,7 +12,7 @@ ISBN: 9781098166830
 <br/>
 <br/>
 
-[Purchase on Amazon](https://www.amazon.com/Databricks-Certified-Engineer-Associate-Depth/dp/1098166833)
+[Purchase on Amazon](https://amzn.to/41RWWLm)
 
 [Read on O'Reilly Learning Platform](https://www.oreilly.com/library/view/databricks-certified-data/9781098166823/)
 
