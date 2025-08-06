@@ -128,7 +128,7 @@ def load_new_json_data(all=False):
 
 # COMMAND ----------
 
-#clean_up()
+clean_up()
 
 # COMMAND ----------
 
